@@ -1,0 +1,5 @@
+c:\users\dmatlani\documents\visual studio 2015\Projects\Turtle\Turtle\bin\Debug\Turtle.exe.config
+c:\users\dmatlani\documents\visual studio 2015\Projects\Turtle\Turtle\bin\Debug\Turtle.exe
+c:\users\dmatlani\documents\visual studio 2015\Projects\Turtle\Turtle\bin\Debug\Turtle.pdb
+c:\users\dmatlani\documents\visual studio 2015\Projects\Turtle\Turtle\obj\Debug\Turtle.exe
+c:\users\dmatlani\documents\visual studio 2015\Projects\Turtle\Turtle\obj\Debug\Turtle.pdb
